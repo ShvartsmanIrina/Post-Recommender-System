@@ -2,7 +2,7 @@
 
 This is my project on a recommender system for posts to users.
 
-To build recommendations for users of posts, I trained the Catbust model on the data that contained long texts that had to be vectorized.
+To build recommendations for users of posts, I trained the CatBoost model on the data that contained long texts that had to be vectorized.
 
 To vectorize the texts, I used two approaches. The first approach used tf-idf. The second to build embeddings using a pre-trained transformer RobertaModel.
 
