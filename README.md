@@ -1,6 +1,6 @@
 ## Post-Recommender-System
 
-This is my project on a recommender system for posts to users.
+This is my project on a social media post recommendation system.
 
 To build recommendations for users of posts, I trained the CatBoost model on the data that contained long texts that had to be vectorized.
 
